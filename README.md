@@ -46,7 +46,7 @@ Any additional information goes here
 ## Demo
 
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/85ju7f"></iframe></div><p><a href="https://imgflip.com/gif/85ju7f">via Imgflip</a></p></div>
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/85ju9i"></iframe></div><p><a href="https://imgflip.com/gif/85ju9i">via Imgflip</a></p></div>
 ## Features
 
 - Responsive Design: The expanding image cards work smoothly on different devices, adapting to various screen sizes.
